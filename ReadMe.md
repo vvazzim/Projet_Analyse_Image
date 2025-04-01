@@ -37,11 +37,13 @@ pip install opencv-python scikit-learn torch matplotlib numpy pandas xgboost sci
 ```
 /Projet_Escaliers
 │
-├── data/                    # Dossier contenant les images pour l'entraînement
+├── data/                    # Contient les images pour l'entraînement du modèle
 │
-├── notebook/                   # Dossier avec le code 
+├── notebook/                # Contient les notebooks avec le code d'entraînement, de test et de prédiction
 │
-└── README.md                
+├── results/                 # Dossier pour enregistrer les résultats et les images traitées
+│
+└── README.md                       
 ```
 
 ## Résumé du Modèle
