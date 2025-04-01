@@ -17,7 +17,7 @@ Le projet vise à développer un modèle de prédiction pour détecter le nombre
 
 ### Pré-requis
 Vous devez installer les bibliothèques suivantes :
-- Python 3.x
+- Python 3.10 (Minimum)
 - OpenCV
 - scikit-learn
 - torch (pour les réseaux de neurones)
@@ -39,16 +39,9 @@ pip install opencv-python scikit-learn torch matplotlib numpy pandas xgboost sci
 │
 ├── data/                    # Dossier contenant les images pour l'entraînement
 │
-├── model/                   # Dossier avec les modèles enregistrés
+├── notebook/                   # Dossier avec le code 
 │
-├── src/                     # Code source du projet
-│   ├── detect_lines.py      # Détection de lignes avec Hough
-│   ├── train_model.py       # Entraînement des modèles (SVR, RF, etc.)
-│   └── predict.py           # Prédiction du nombre d'escaliers
-│
-├── results/                 # Dossier pour sauvegarder les résultats
-│
-└── README.md                # Ce fichier
+└── README.md                
 ```
 
 ## Résumé du Modèle
