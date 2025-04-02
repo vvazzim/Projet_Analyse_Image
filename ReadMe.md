@@ -1,5 +1,5 @@
 
-# Projet Image - Détection des Escaliers
+# Projet Image - Détection des Marches d'Escaliers
 
 ## Auteurs
 - **Wassim CHIKHI**
