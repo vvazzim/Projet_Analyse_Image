@@ -92,14 +92,7 @@ Une amélioration future possible pour ce projet est d'intégrer un modèle de s
 ### Images Renommées
 Le renommage des images dans chaque groupe a été effectué afin de garantir un ordre chronologique et une gestion claire des données.
 
-## Comment Exécuter le Code
-Pour entraîner et tester un modèle, exécutez le script `train_model.py` avec les données appropriées.
-
-Exemple de commande pour prédire le nombre d'escaliers sur une image :
-
-```bash
-python predict.py --image_path ./data/Groupe1/Groupe1_image01.jpg
-```
+![alt text](image.png)
 
 ### Fonctionnalités
 - Prédiction du nombre d'escaliers à partir d'une image d'entrée.
