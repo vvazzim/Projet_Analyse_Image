@@ -85,6 +85,7 @@ Nombre d'escaliers détectés : 9
 Vous pouvez ajouter une illustration pour visualiser les résultats de la détection. Par exemple :
 
 ![Résultats Détection Escaliers](results/stair_detection_result.jpg)
+![alt text](image.png)
 
 ## Perspective
 Une amélioration future possible pour ce projet est d'intégrer un modèle de segmentation basé sur YOLO pour isoler uniquement les escaliers dans l'image, ce qui pourrait améliorer encore la précision de la détection.
@@ -92,7 +93,6 @@ Une amélioration future possible pour ce projet est d'intégrer un modèle de s
 ### Images Renommées
 Le renommage des images dans chaque groupe a été effectué afin de garantir un ordre chronologique et une gestion claire des données.
 
-![alt text](image.png)
 
 ### Fonctionnalités
 - Prédiction du nombre d'escaliers à partir d'une image d'entrée.
